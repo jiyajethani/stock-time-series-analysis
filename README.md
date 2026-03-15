@@ -29,5 +29,3 @@ Stock price data downloaded using yfinance API.
 5. Transform data using differencing
 6. Analyze autocorrelation
 
-Additional Feature
-Stock price forecasting using ARIMA model to predict future trends.
